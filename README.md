@@ -32,4 +32,4 @@ This repository contains fundamental algorithm implementations and mathematical 
 - **Concepts:** Algorithms, Data Structures (Arrays), Control Flow, I/O Operations, Randomization.
 
 ---
-*Developed by [Senin Adın] - Computer Engineering Student @ Marmara University*
+*Developed by Burakcan Arslan. - Computer Engineering Student @ Marmara University*
